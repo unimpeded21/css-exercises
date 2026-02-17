@@ -1,12 +1,12 @@
 /* Add CSS Styling */
 
 .odd {
-    background-color: pink;
+    background-color: rgb(209, 141, 152);
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 #second {
-    color: blue;
+    color: hsl(240, 57%, 42%);
     font-size: 36px;
 }
 
@@ -15,7 +15,7 @@
 }
 
 #fourth {
-    background-color: lightgreen;
+    background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;
 }
