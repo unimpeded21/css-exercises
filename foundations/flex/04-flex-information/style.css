@@ -30,8 +30,10 @@ img {
 .plants {
   display: flex;
   gap: 52px;
+  justify-content: space-between;
 }
 
 .one, .two, .three, .four {
   text-align: center;
+  width: 200px;
 }
