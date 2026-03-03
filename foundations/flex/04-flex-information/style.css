@@ -29,6 +29,7 @@ img {
 
 .plants {
   display: flex;
+  gap: 52px;
 }
 
 .one, .two, .three, .four {
