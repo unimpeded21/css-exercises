@@ -70,3 +70,9 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+.headerclose {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+}
