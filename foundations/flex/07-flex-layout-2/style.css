@@ -18,6 +18,8 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  text-align: center;
+  align-content: center;
 }
 
 .sidebar {
